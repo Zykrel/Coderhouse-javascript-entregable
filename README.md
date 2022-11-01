@@ -1,4 +1,4 @@
-# Coderhouse-javascript-entregable1
+# Coderhouse-javascript-entregable2
 
-Primer entregable del curso de javascript de Coderhouse
+Segundo entregable del curso de javascript de Coderhouse
 Alumno Nahuel Garcia
